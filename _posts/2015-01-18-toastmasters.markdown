@@ -2,7 +2,7 @@
 layout: post
 title:  "Five things I learned about toastmasters"
 date:   2015-01-08 12:04:40 -0600
-categories: toastmasters, speaking, opinion
+categories: toastmasters speaking opinion
 ---
 
 Let me explain how I feel about public speaking. I like public speaking but I didn’t enjoy doing in front of an audience. No matter how I tell myself to be calm and nothing to be worry about a speech I’m going to give. Few minutes before my speech my heart beat starting to rise. At that time, I don’t have time to do relaxing exercises. Then I’m trying to take my mind out of thinking about the speech.  Still I can feel my heart is beating very fast. When it is my turn to speak, I walk to lectern or stage then I get to see the audience. Oh too many people. Then I forget the content. If I rehearse well I can do opening of my speech, but I know my voice will sound nervous, I will sound monotone and If I have slides I can get away reading slides. Hoping I could remember rest of the speech when I need. It was clear to me there was big room for improvement. Also, I realized that only way to improve public speaking is to practice. I think public speaking is a skill like swimming. You have to do if you want to get better.
