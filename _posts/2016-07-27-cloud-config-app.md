@@ -8,8 +8,7 @@ categories: tugboat cloud
 
 We have used cloud configuration application as a part of our end-to-end testing. It’s an application written and maintained by Codey Whitt. Use
 this [link](https://bitbucket.pearson.com/projects/CLOUDINF/repos/cloud-config-service-deploy/browse) to checkout the application.
-It is fully configured to work with tugboat out of the box. Once you get your ssh keys and settings.xml in correct places,
-you can use following command to deploy the application.
+It is fully configured to work with tugboat out of the box. Once you get your ssh keys and settings.xml in correct places, use following command to deploy the application.
 
 ### Deploy application
 
@@ -27,7 +26,7 @@ Should return 4xx if deployment successful. Expectation is that, it shouldn’t 
 
 ## Configuration
 
-We know that deployment is easy for config application. Let’s go over configuration.
+We know that deployment is easy for cloud configuration application. Let’s go over configuration.
 
 ### settings.xml
 
