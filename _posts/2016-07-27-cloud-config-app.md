@@ -2,7 +2,7 @@
 layout: post
 title: "Cloud Configuration Application"
 date: 2016-07-27 00:04:40 -0600
-categories: tugboat
+categories: tugboat cloud
 ---
 # Cloud Configuration Application
 
