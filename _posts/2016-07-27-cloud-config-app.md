@@ -34,6 +34,7 @@ Put settings.xml in `~/.m2` directory. Make sure to update correct username and 
 ### Authentication credentials for team
 
 In order to deploy with tugboat, update `.tugboat/nibiru.json` with
+
     "nibiru": {
 	    // if team_uri is not specified here,
 	    // NIBIRU_TEAM_URI environment variable must be set
