@@ -17,16 +17,16 @@ Then create `nibiru.ini` file in current directory or `~/.bluejay` directory as 
 
 	[default]
 	token=‘xxxx-xxxx-xxx-xx’
-	team='https://nibiru-prod.prsn.us/api/teams/48'
+	team='team_url_48'
 
 	[48]
 	token=‘xxx-xxx-xxx’
-	team='https://nibiru-prod.prsn.us/api/teams/48'
+	team='team_url_48'
 
 	[zz]
 	token=‘xxxx-xxx-xxx-xx’
-	team='https://nibiru-prod.prsn.us/api/teams/zz'
-	
+	team='team_url_zz'
+
 ## Commands
 
 #### Get instances, deployed from nibiru

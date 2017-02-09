@@ -2,21 +2,20 @@
 layout: post
 title: "Cloud Configuration Application"
 date: 2016-07-27 00:04:40 -0600
-categories: tugboat cloud
+categories: tugboat
 ---
 # Cloud Configuration Application
 
-We have used cloud configuration application as a part of our end-to-end testing. It’s an application written and maintained by Codey Whitt. Use
-this [link](https://bitbucket.pearson.com/projects/CLOUDINF/repos/cloud-config-service-deploy/browse) to checkout the application.
+We have used cloud configuration application as a part of our end-to-end testing.
 It is fully configured to work with tugboat out of the box. Once you get your ssh keys and settings.xml in correct places, use following command to deploy the application.
 
 ### Deploy application
 
 	fab full_deploy:environment="dev",version="0.1.5" &> tugboat.log
 
-### Testing application 
+### Testing application
 
-	curl https://cloud-config.dev-prsn.com
+	curl https://cloud-config.dev-xydinesh.com
 
 Should return 4xx if deployment successful. Expectation is that, it shouldn’t return 5xx
 
@@ -30,14 +29,12 @@ We know that deployment is easy for cloud configuration application. Let’s go 
 
 ### settings.xml
 
-Put [`settings.xml`]({{ site.url }}/assets/settings.xml) in `~/.m2` directory. Make sure to update correct username and passwords in `settings.xml`
+Put settings.xml in `~/.m2` directory. Make sure to update correct username and passwords in `settings.xml`
 
 ### Authentication credentials for team
 
 In order to deploy with tugboat, update `.tugboat/nibiru.json` with
-	
     "nibiru": {
-	
 	    // if team_uri is not specified here,
 	    // NIBIRU_TEAM_URI environment variable must be set
 	    // "team_uri": "https://nibiru/team/uri",
