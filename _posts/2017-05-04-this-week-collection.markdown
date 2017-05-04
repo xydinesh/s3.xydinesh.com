@@ -17,7 +17,7 @@ Here is my favorite collection from this week. Grit is a great book on how to di
 # Books
 * [Grit: Power of Passion and Perseverance](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 
-Great deal of information on how to descover your passion and achieving your goal. Discuss in detail differenet aspects of `Grit` and how to become more `Grittier`. Basic components of `Grit`
+Great deal of information on how to discover your passion and achieving your goal. Discuss in detail different aspects of `Grit` and how to become more `Grittier`. Basic components of `Grit`
 intorduced as
 
 1. Interest
