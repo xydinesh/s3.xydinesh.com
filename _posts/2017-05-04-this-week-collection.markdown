@@ -28,4 +28,4 @@ intorduced as
 # Misc
 * [Global Livingston Institute](http://globallivingston.org/)
 
-`Listen, Think, Act`. I had an opportunity to listen to , Dr. Jamie Van Leeuwen, CEO of Global Livingston Institute. They have done amazing projects to improve lives of people in Uganda. Please check out what they have done and donte if possible.
+`Listen, Think, Act`. I had an opportunity to listen to , Dr. Jamie Van Leeuwen, CEO of Global Livingston Institute. They have done amazing projects to improve lives of people in Uganda. Please check out what they have done and donate if possible.
