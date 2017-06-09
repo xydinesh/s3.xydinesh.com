@@ -15,9 +15,9 @@ Dr. Duckworth claims that extracurricular activities improve grit qualities in k
 
 I agree with her findings. We have tried to implement with our kids even before reading this book. 
 
-For the most of the time, We have given my seven year old son (Ahas) to pick what sports or activities he wants to do. Sometimes we don’t give him that option. For example, we believe that swimming is valuable skill to learn. Therefore we signed him up to learn swimming. If he does not like swimming he can quit, first he has to show us that he can swim on his own few laps.
+For the most of the time, We have given my seven year old son (Ahas) to pick what sports or activities he wants to do. Sometimes we don’t give him that option. For example, we believe that swimming is valuable skill to learn. Therefore we signed him up to learn swimming. If he does not like swimming he can quit, first he has to show us that he can swim few laps on his own.
 
-For the sports he likes to participate, we let him know that we are paying to sign him up. We set expectation to give his best in practice and games, attend until the season is over. Ahas has participated in baseball, basketball, flag football, wrestling, taekwondo and soccer last few years. One thing is evident, that sports are challenging and pushing him to reach to next level. 
+For the sports he likes to participate, we let him know that we are paying to sign him up. We set expectation to give his best in practice and games, attend until the season is over. Ahas has participated in baseball, basketball, flag football, wrestling, taekwondo and soccer last few years. One thing is evident, sports are challenging and pushing him to reach to next level. 
 
 As parents, our responsibility to make sure that our kids show up for practice and games. Beyond that we let them control how do they want to participate.
 
