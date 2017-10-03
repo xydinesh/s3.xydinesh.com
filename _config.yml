@@ -16,5 +16,6 @@ linkedin_username: xydinesh
 twitter_username: xydinesh
 github_username:  xydinesh
 
+host: 0.0.0.0
 # Build settings
 markdown: kramdown

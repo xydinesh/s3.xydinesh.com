@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  xydinesh:
+    image: xydinesh/website:latest
+    container_name: xydinesh
+    ports:
+      - "4000:4000"
+    networks:
+      - private
+    volumes:
+      - xydinesh-volume:/opt/data
+      - .:/data
+volumes:
+  xydinesh-volume:
+
+networks:
+  private:
+    driver: bridge
