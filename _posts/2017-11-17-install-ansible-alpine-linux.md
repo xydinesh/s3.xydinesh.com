@@ -5,8 +5,6 @@ date: 2017-11-15 00:04:40 - 0600
 categories: cloud
 ---
 
-## Install Ansible on Alpine Linux
-
 Getting current ansible on a linux usually a easy task, can be done with ```pip```.
 
 ```
