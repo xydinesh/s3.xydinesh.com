@@ -4,7 +4,7 @@ RUN apk update && apk upgrade && apk --update add \
         ncurses-terminfo-base ncurses-terminfo \
         libxslt libxslt-dev zlib-dev zlib \
         ruby ruby-dev yaml yaml-dev \
-        libffi-dev build-base git nodejs \
+        libffi-dev build-base git nodejs openjdk8-jre \
         ruby-io-console ruby-irb ruby-json ruby-rake \
     &&  echo 'gem: --no-document' > /etc/gemrc
 RUN gem install s3_website \
@@ -18,7 +18,7 @@ RUN gem install s3_website \
             yaml-dev libffi-dev libxml2-dev \
  && apk search --update
 
+RUN /usr/bin/s3_website install
 EXPOSE 4000
 
 WORKDIR /data
-ENTRYPOINT ["jekyll", "serve"]
