@@ -4,7 +4,6 @@ services:
   xydinesh:
     image: xydinesh/website:latest
     container_name: xydinesh
-    command: ["sleep", "3600"]
     ports:
       - "4000:4000"
     networks:
