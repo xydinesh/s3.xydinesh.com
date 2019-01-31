@@ -1,7 +1,6 @@
 ---
 title: "Getting lambda to work with dynamodb and elasticache"
 date: 2019-01-31T12:00:51-07:00
-draft: true
 tags:
   - aws
   - code
