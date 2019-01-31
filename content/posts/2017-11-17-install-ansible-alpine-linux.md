@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Install Ansible on Alpine Linux"
-date: 2017-11-15 00:04:40 - 0600
+date: 2017-11-15 00:04:40 -0600
 categories: cloud
 ---
 

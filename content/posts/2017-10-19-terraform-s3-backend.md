@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Terraform S3 backend"
-date: 2017-10-19 00:04:40 - 0600
+date: 2017-10-19 00:04:40 -0600
 categories: cloud
 ---
 

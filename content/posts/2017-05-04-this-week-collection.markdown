@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week Collection: May 4th"
-date: 2017-05-04 00:04:40 - 0600
+date: 2017-05-04 00:04:40 -0600
 categories: collection weekly
 ---
 
