@@ -2,7 +2,7 @@ baseURL = "https://xydinesh.com"
 languageCode = "en-us"
 title = "Dinesh Weerapurage"
 theme="yinyang"
-
+googleAnalytics = "UA-3339057-3"
 [author]
   name = "Dinesh Weerapurage"
   homepage = "https://xydinesh.com/"
