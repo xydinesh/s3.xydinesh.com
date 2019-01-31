@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On raising gritty kids"
-date: 2017-06-09 00:04:40 - 0600
+date: 2017-06-09 00:04:40 -0600
 categories: parenting
 ---
 
