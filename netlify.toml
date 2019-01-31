@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "git clone --depth=1 https://github.com/joway/hugo-theme-yinyang themes/yinyang;hugo --gc --minify"
+command = "git clone --depth=1 https://github.com/xydinesh/hugo-theme-yinyang.git themes/yinyang;hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.53"

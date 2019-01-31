@@ -2,3 +2,21 @@ baseURL = "https://xydinesh.com"
 languageCode = "en-us"
 title = "Dinesh Weerapurage"
 theme="yinyang"
+
+[author]
+  name = "Dinesh Weerapurage"
+  homepage = "https://xydinesh.com/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/posts"
+    languageName = "English"
+    weight = 1
+
+[params]
+[[params.socials]]
+name = "About Me"
+link = "https://xydinesh.com"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/xydinesh"
