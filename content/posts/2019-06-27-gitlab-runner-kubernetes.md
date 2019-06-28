@@ -1,11 +1,10 @@
 ---
 title: "Setting up gitlab runner in kubernetes"
-date: 2019-06-27T21:18:29-06:00
-draft: true
+date: 2019-06-28T14:18:29-06:00
 ---
 I spent time to configure gitlab runners in kubernetes. Until now we had runners on EC2 which worked well. However,
 it was bugging me that those ec2 instances were under utilze. I wanted to configure gitlab runners in kubernetes to ensure that we are not wasting
-resources for gitlab runners in ec2. Gitlab already have extensive documentation on the topic, mainly I will refer to pointers gitlab documentation in this post. 
+resources. Gitlab already have extensive documentation on the topic, mainly I will refer to pointers in gitlab documentation.
 
 # Add kubernetes cluster to gitlab.
 
