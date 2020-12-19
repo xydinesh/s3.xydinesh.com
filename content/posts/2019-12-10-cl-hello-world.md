@@ -1,7 +1,6 @@
 ---
 title: "Common Lisp Rest API"
 date: 2019-12-10T15:04:28-07:00
-draft: true
 ---
 After reading Paul Graham's "Hackers and Painters", I wanted learn "Common Lisp". I found "lisp-koans" to be a great resource for me to get started.
 After completing about 25 lessons of 27 koans, I wanted to try and create a REST api project with lisp. I found creating a REST API to be a difficult
